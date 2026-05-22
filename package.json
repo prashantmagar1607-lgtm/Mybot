@@ -4,8 +4,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest"
   }
-}
-"dependencies": {
-  "@whiskeysockets/baileys": "latest"
 }
